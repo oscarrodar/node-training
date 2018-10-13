@@ -1,2 +1,7 @@
 # node-training
-Node Training. No Frameworks. Plain Javascript in NodeJS
+Node Training. Plain NodeJS
+
+* No `NPM`
+* No `packaje.json`
+* No libraries 
+* No frameworks
