@@ -1,4 +1,4 @@
-# node-training
+# Mastering NodeJS
 Node Training. Plain NodeJS :check: 
 
 * No `NPM`
